@@ -30,5 +30,5 @@ go build .\paip.go
 Copy/Move to your defalt go path
 
 ```
-mv paip.go \go\bin
+mv paip.exe \go\bin
 ```
