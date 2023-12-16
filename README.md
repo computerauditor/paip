@@ -16,8 +16,7 @@ paip 127.0.0.1
 ```
 echo '127.0.0.1' | paip  
 ```
-![2](https://github.com/computerauditor/paip/assets/117805200/94193d05-fa4d-4998-af0c-f7563a4e7afa)
-
+![2](https://github.com/computerauditor/paip/assets/117805200/97a6c014-66b6-46b6-b37b-2827b9a6b6de)
 
 ## Installation:
 
