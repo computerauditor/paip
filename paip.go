@@ -22,7 +22,7 @@ func main() {
 	} else {
 		// Check if an IP address is provided as a command line argument
 		if len(os.Args) != 2 {
-			fmt.Println("Usage: oppa.go <IP>")
+			fmt.Println("Usage: paip.go <IP>")
 			os.Exit(1)
 		}
 		ipString = os.Args[1]
