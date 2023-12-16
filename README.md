@@ -1,8 +1,8 @@
 # paip
-Print all IPs subnet from 1 to 255
+Print all IPs from 1 to 255
 
 ## paip
-A simpe go tool that prints the IP addresses in the subnet from 1 to 255
+A simple go tool that prints the IP addresses from 1 to 255
 
 ## Usage:
 
